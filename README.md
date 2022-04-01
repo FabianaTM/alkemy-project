@@ -1,6 +1,13 @@
 ### Objetivo
 
 
+### Clon del repositorio
+
+Clonar el proyecto
+```cmd
+git clone https://github.com/FabianaTM/alkemy-project.git
+```
+
 ### Configuracion
 
 Copiar y renombrar el archivo `settings.template.ini` a `settings.ini`.
